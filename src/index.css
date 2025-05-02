@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@tailwind utilities;
+
+@layer components {
+  /* .infiniteScroll::-webkit-scrollbar-track{
+        display: none;
+    }
+    
+    .infiniteScroll::-webkit-scrollbar-thumb{
+        background-color: coral;
+    } */
+}
